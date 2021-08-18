@@ -1,2 +1,2 @@
 # hyperblog
-un blog de prueba
+un blog de prueba para checar si funciona 
